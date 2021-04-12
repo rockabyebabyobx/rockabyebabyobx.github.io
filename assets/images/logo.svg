@@ -1,0 +1,27 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="306" height="28">
+    <style>
+        text{
+          font-family: 'Arial Black';
+        }
+    </style>
+    <text fill="black" x="8" y="22" transform="rotate(-9,8,22)">R</text>
+    <text fill="black" x="22" y="22">O</text>
+    <text fill="black" x="36" y="22" transform="rotate(9,36,22)">C</text>
+    <text fill="black" x="53" y="22" transform="rotate(-9,53,22)">K</text>
+    <text fill="black" x="74" y="22">-</text>
+    <text fill="black" x="86" y="22">A</text>
+    <text fill="black" x="106" y="22">-</text>
+    <text fill="black" x="118" y="22" transform="rotate(9,118,22)">B</text>
+    <text fill="black" x="134" y="22">Y</text>
+    <text fill="black" x="150" y="22" transform="rotate(-9,150,22)">E</text>
+    <text fill="black" x="176" y="22" transform="rotate(9,176,22)">B</text>
+    <text fill="black" x="192" y="22">A</text>
+    <text fill="black" x="208" y="22" transform="rotate(-9,208,22)">B</text>
+    <text fill="black" x="220" y="22" transform="rotate(9,220,22)">Y</text>
+    <g transform="rotate(-9,258,34)">
+        <ellipse cx="272" cy="16" rx="32" ry="11" stroke="black" fill="none"></ellipse>
+        <text fill="black" x="250" y="22">O</text>
+        <text fill="black" x="264" y="22">B</text>
+        <text fill="black" x="277" y="22">X</text>
+    </g>
+</svg>
